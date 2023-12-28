@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm abd alkafi brejawi</h1>
 <h3 align="center">Software engineer, graduate of the Faculty of Information Engineering</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kafibrejawi&label=Profile%20views&color=0e75b6&style=flat" alt="kafibrejawi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kafibrejawi" alt="kafibrejawi" /></a> </p>
+ <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" ></img>
 
 - 🔭 I’m currently working on MOBILE APPLICATIONS PROGRAMMING [Tech Titans](Tech Titans)
 
