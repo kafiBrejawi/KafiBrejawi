@@ -29,6 +29,7 @@
   <p>الهلال الاحمر العربي السوري</p>
   <div class="button-container">
     <a href="https://play.google.com/store" class="button">Get it on Google Play</a>
+    <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
     <a href="https://www.apple.com/app-store/" class="button">Get it on App Store</a>
   </div>
 </div>
@@ -38,6 +39,7 @@
   <p>تطبيق لتنظيم الاعراس</p>
   <div class="button-container">
     <a href="https://play.google.com/store/apps/details?id=com.qunfudah.marriages" class="button">Get it on Google Play</a>
+    <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
     <a href="https://www.apple.com/app-store/" class="button">Get it on App Store</a>
   </div>
 </div>
