@@ -24,7 +24,7 @@
 <h3 align="left"  >My Projects </h3>
 <div id="content">
   <h1>Monasbat</h1>
-  <p style="font-weight: bold; font-size: 18px; color: #333; /* Your preferred color */">تطبيق لتنظيم الاعراس</p>
+  <p style="font-weight: bold; font-size: 13px; color: #333; /* Your preferred color */">تطبيق لتنظيم الاعراس</p>
   <div class="button-container">
     <a href="https://play.google.com/store/apps/details?id=com.qunfudah.marriages" class="button">Get it on Google Play</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
@@ -35,7 +35,7 @@
 
 <div id="content">
   <h1>Monasbat</h1>
-  <p style="font-weight: bold; font-size: 18px; color: #333; /* Your preferred color */">تطبيق لتنظيم الاعراس</p>
+  <p style="font-weight: bold; font-size: 13px; color: #333; /* Your preferred color */">تطبيق لتنظيم الاعراس</p>
   <div class="button-container">
     <a href="https://play.google.com/store/apps/details?id=com.qunfudah.marriages" class="button">Get it on Google Play</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
