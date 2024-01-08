@@ -34,7 +34,7 @@
 
 
 <div id="content">
-  <h1 style="font-size: 36px; /* Your preferred font size */ font-weight: bold; color: #333; /* Your preferred color */">Monasbat</h1>
+  <h1 style="font-size: 22px; /* Your preferred font size */ font-weight: bold; color: #333; /* Your preferred color */">Monasbat</h1>
   <p style="font-weight: bold; font-size: 18px; color: #333; /* Your preferred color */">تطبيق لتنظيم الاعراس</p>
   <div class="button-container">
     <a href="https://play.google.com/store/apps/details?id=com.qunfudah.marriages" class="button">Get it on Google Play</a>
