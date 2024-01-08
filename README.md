@@ -25,14 +25,15 @@
 </p>
 
 <div id="content">
-  <h1>Monawbaty</h1>
-  <p>الهلال الاحمر العربي السوري</p>
+  <h1>Monasbat</h1>
+  <p style="font-weight: bold; font-size: 18px; color: #333; /* Your preferred color */">تطبيق لتنظيم الاعراس</p>
   <div class="button-container">
-    <a href="https://play.google.com/store" class="button">Get it on Google Play</a>
+    <a href="https://play.google.com/store/apps/details?id=com.qunfudah.marriages" class="button">Get it on Google Play</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
     <a href="https://www.apple.com/app-store/" class="button">Get it on App Store</a>
   </div>
 </div>
+
 
 <div id="content">
   <h1>Monasbat</h1>
