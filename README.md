@@ -37,13 +37,14 @@
 
 <div id="content">
   <h1>Monasbat</h1>
-  <p>تطبيق لتنظيم الاعراس</p>
+  <p style="font-weight: bold; font-size: 18px; color: #333; /* Your preferred color */">تطبيق لتنظيم الاعراس</p>
   <div class="button-container">
     <a href="https://play.google.com/store/apps/details?id=com.qunfudah.marriages" class="button">Get it on Google Play</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
     <a href="https://www.apple.com/app-store/" class="button">Get it on App Store</a>
   </div>
 </div>
+
 
 <!-- GitHub stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kafibrejawi&show_icons=true&locale=en&layout=compact" alt="kafibrejawi" /></p>
