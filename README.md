@@ -60,7 +60,7 @@
   <h3 style="font-size: 22px; /* Your preferred font size */ font-weight: bold; color: #333; /* Your preferred color */">SOUAD SITE</h3>
   <p style="font-weight: bold; font-size: 18px; color: #333; /* Your preferred color */">  وهو موقع لإخصائية تغذية حيث تكون مهمة الموقع هي عرض اعمال الاخصائية ومجموعة خدماتها بلإضافة الى السماح للمريض بمرجعتها عن طريق فورم طبي موجود بداخل الموقع   </p>
   <div class="button-container">
-    <a href="https://dietitian-souad.com" class="button">Get it on Google Play</a>
+    <a href="https://dietitian-souad.com" class="button">https://dietitian-souad.com</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
   </div>
 </div>
