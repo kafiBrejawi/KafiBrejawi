@@ -34,7 +34,7 @@
 <h3 align="left"  >My Projects </h3>
 <div id="content">
   <h1>Monawbaty</h1>
-  <p style="font-weight: bold; font-size: 13px; color: #333; /* Your preferred color */">  تطبيق برمجي تم تطويره في عام 2021 لصالح منظومة الاسعاف الاولي في مظمة الهلال الاحمر العربي السوري والهدف الرئيسي منه هو تنظيم مناوبات الهلال الاحمر بلاضافة الى العديد من الميزات التي طورت لمساعدة المسعفين وتنظيم عمل المنظومة الاسعافية من جهة اخرى</p>
+  <p style="font-weight: bold; font-size: 13px; color: red; /* Your preferred color */">  تطبيق برمجي تم تطويره في عام 2021 لصالح منظومة الاسعاف الاولي في مظمة الهلال الاحمر العربي السوري والهدف الرئيسي منه هو تنظيم مناوبات الهلال الاحمر بلاضافة الى العديد من الميزات التي طورت لمساعدة المسعفين وتنظيم عمل المنظومة الاسعافية من جهة اخرى</p>
   <div class="button-container">
     <a href="https://play.google.com/store/apps/details?id=com.qunfudah.marriages" class="button">Get it on Google Play</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
