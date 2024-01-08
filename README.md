@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Mobile Applications Programming** at [Tech Titans](Tech Titans)
 - 🌱 I’m currently learning **ASP.NET Core**
 - 👨‍💻 All of my projects are available at [my Facebook profile](https://www.facebook.com/profile.php?id=100093238112145)
-- 💬 Ask me about **Flutter (Dart), ASP.NET (C#), C++**
+- 💬 Ask me about **Flutter (Dart), ASP.NET (C#), C++ ,Wordpress
 - 📫 How to reach me: **Kafi.brejawi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
