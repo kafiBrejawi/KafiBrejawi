@@ -27,7 +27,7 @@
 <br> 
 
 
-<h1 align="left"  >My Projects </h1>
+<h1 align="left"  >Some Of My Projects </h1>
 <div id="content">
   <h3>Monawbaty</h3>
   <p style="font-weight: bold; font-size: 13px; color: Red; /* Your preferred color */">  تطبيق برمجي تم تطويره في عام 2021 لصالح منظومة الاسعاف الاولي في مظمة الهلال الاحمر العربي السوري والهدف الرئيسي منه هو تنظيم مناوبات الهلال الاحمر بلاضافة الى العديد من الميزات التي طورت لمساعدة المسعفين وتنظيم عمل المنظومة الاسعافية من جهة اخرى</p>
