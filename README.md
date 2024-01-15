@@ -48,7 +48,10 @@ of the aid system on the other .</p>
 
 <div id="content">
   <h3>Monasbat</h3>
-  <p style="font-weight: bold; font-size: 13px; color: Red; /* Your preferred color */">  </p>
+  <p style="font-weight: bold; font-size: 13px; color: Red; /* Your preferred color */"> Application used to display tribal events in Saudi Arabia
+The function of the administrator is to add appropriate details through the dash
+board,Users will be shown details of each occasion and the date of the occasion,Plus
+there are notifications and reminders of the date of the event </p>
   <div class="button-container">
     <a href="https://play.google.com/store/apps/details?id=com.qunfudah.marriages&pcampaignid=web_share" class="button">Get it on Google Play</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
