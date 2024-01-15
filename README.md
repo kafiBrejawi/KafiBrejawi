@@ -30,7 +30,10 @@
 <h1 align="left"  >Some Of My Projects </h1>
 <div id="content">
   <h3>Monawbaty</h3>
-  <p style="font-weight: bold; font-size: 13px; color: Red; /* Your preferred color */">  تطبيق برمجي تم تطويره في عام 2021 لصالح منظومة الاسعاف الاولي في مظمة الهلال الاحمر العربي السوري والهدف الرئيسي منه هو تنظيم مناوبات الهلال الاحمر بلاضافة الى العديد من الميزات التي طورت لمساعدة المسعفين وتنظيم عمل المنظومة الاسعافية من جهة اخرى</p>
+  <p style="font-weight: bold; font-size: 13px; color: Red; /* Your preferred color */">  A software application developed in 2021 for the first aid system in the Syrian Arab Red
+Crescent organization. Its main objective is to organize Red Crescent shifts in addition to
+many features developed to assist paramedics on the one hand and to organize the work
+of the aid system on the other .</p>
   <div class="button-container">
     <a href="https://play.google.com/store/apps/details?id=com.shk.monawpaty" class="button">Get it on Google Play</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
@@ -45,7 +48,7 @@
 
 <div id="content">
   <h3>Monasbat</h3>
-  <p style="font-weight: bold; font-size: 13px; color: Red; /* Your preferred color */"> تطبيق لصالح قبيلة في المملكة العربية السعودية </p>
+  <p style="font-weight: bold; font-size: 13px; color: Red; /* Your preferred color */">  </p>
   <div class="button-container">
     <a href="https://play.google.com/store/apps/details?id=com.qunfudah.marriages&pcampaignid=web_share" class="button">Get it on Google Play</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
@@ -58,7 +61,9 @@
 
 <div id="content">
   <h3 style="font-size: 22px; /* Your preferred font size */ font-weight: bold; color: #333; /* Your preferred color */">SOUAD SITE</h3>
-  <p style="font-weight: bold; font-size: 18px; color: #333; /* Your preferred color */">  وهو موقع لإخصائية تغذية حيث تكون مهمة الموقع هي عرض اعمال الاخصائية ومجموعة خدماتها بلإضافة الى السماح للمريض بمرجعتها عن طريق فورم طبي موجود بداخل الموقع   </p>
+  <p style="font-weight: bold; font-size: 18px; color: #333; /* Your preferred color */">  It is a site created for a nutritionist with the aim of offering her range of services in
+addition to facilitate the process of communicating with her patients in ways selected and
+included in the site       </p>
   <div class="button-container">
     <a href="https://dietitian-souad.com" class="button">https://dietitian-souad.com</a>
     <span>&nbsp;&nbsp;&nbsp;</span><!-- Spaces added -->
